@@ -1,0 +1,4 @@
+[tmux-mem-cpu-load]
+source = "git"
+git = "https://github.com/thewtex/tmux-mem-cpu-load.git"
+prefix = "v"

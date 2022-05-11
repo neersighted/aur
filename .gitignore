@@ -1,0 +1,15 @@
+*/*.log
+*/pkg/
+*/src/
+
+*/*.7z
+*/*.zip
+*/*.tar.gz
+*/*.tgz
+*/*.tar.bz2
+*/*.tbz
+*/*.tbz2
+*/*.tar.xz
+*/*.txz
+*/*.tar.zst
+*/*.tzst
