@@ -1,0 +1,14 @@
+pkgbase = tmux-mem-cpu-load
+	pkgdesc = CPU, RAM, and load monitor for use with tmux
+	pkgver = 3.8.3
+	pkgrel = 1
+	url = https://github.com/thewtex/tmux-mem-cpu-load
+	arch = x86_64
+	arch = aarch64
+	license = Apache
+	makedepends = cmake
+	makedepends = ninja
+	source = tmux-mem-cpu-load-3.8.3.tar.gz::https://github.com/thewtex/tmux-mem-cpu-load/archive/refs/tags/v3.8.3.tar.gz
+	b2sums = 61cffc7938ac690a9fb78eac36125b036456d5020cee3faef9851bbad03f62f6f1abb69d3c704e7badbee4df6b00d8abd548966840ec8c49a9faf48675f9418a
+
+pkgname = tmux-mem-cpu-load
